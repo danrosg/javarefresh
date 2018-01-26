@@ -1,3 +1,5 @@
+package com.danrosg;
+
 public class MyStack<T>{
 
     private static class MyStackNode<T>{

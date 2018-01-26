@@ -1,4 +1,4 @@
-package main.java.danrosg;
+package com.danrosg;
 
 import java.util.ArrayList;
 

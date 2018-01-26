@@ -1,4 +1,4 @@
-package danrosg;
+package com.danrosg;
 
 /**
  * Hello world!

@@ -1,4 +1,4 @@
-package danrosg;
+package com.danrosg;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
